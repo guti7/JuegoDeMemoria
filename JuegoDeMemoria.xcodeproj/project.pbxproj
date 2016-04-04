@@ -22,6 +22,7 @@
 		CCD7A5C91CB2F9D300C080DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCD7A5CC1CB2F9D300C080DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCD7A5CE1CB2F9D300C080DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCD7A5D41CB2FB0900C080DE /* BingoJuego.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BingoJuego.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		CCD7A5B61CB2F9D300C080DE = {
 			isa = PBXGroup;
 			children = (
+				CCD7A5D41CB2FB0900C080DE /* BingoJuego.playground */,
 				CCD7A5C11CB2F9D300C080DE /* JuegoDeMemoria */,
 				CCD7A5C01CB2F9D300C080DE /* Products */,
 			);
